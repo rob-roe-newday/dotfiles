@@ -23,8 +23,8 @@ blocks:
         type: path
 
       # Git
-      - background: p:white
-        foreground: p:green
+      - background: p:green
+        foreground: p:white
         powerline_symbol: 
         properties:
           script: |
